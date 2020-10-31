@@ -1,0 +1,25 @@
+.home__image {
+    width:100%;
+    mask-image: -moz-linear-gradient(to bottom,rgba(23, 77, 226, 0.637),rgba(230, 16, 16, 0.76));
+    mask-image: -webkit-linear-gradient(to bottom,rgba(17, 26, 163, 0.753),rgba(0,0,0,0));
+    mask-image: linear-gradient(to bottom,rgba(21, 159, 194, 0.911),rgba(0,0,0,0));
+    margin-bottom: -200px;
+     z-index: -1;
+}
+.home__row {
+    display: flex;
+    z-index:1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
+
+.home {
+    max-width: 1200px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+   
+    
+}
